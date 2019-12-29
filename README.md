@@ -12,6 +12,8 @@
 2. 华为(因为华为建了基站)
 3. 卖精神病药的公司(有种猜测是可以使患者长期服下某种东西以达到长期控制患者以获取暴利)
 
+<br/>
+
 1. the government(Chinese Communist)
 2. HUAWEI(because HUAWEI constructs the base station)
 3. The Companies who sell the chlorpromazine(because they can force the patients to eat their medicine(What if what they sell is actually a poison?) and make money by this)
