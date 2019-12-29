@@ -2,9 +2,13 @@
 
 ## 脑控原理推测(guess about the principle)
 
-1. 纳米机器人(nanorobot)
+1. 纳米机器人
 
 (脑纹什么的我觉得不靠谱)
+
+<br/>
+
+1. nanorobot
 
 ## 脑控实施方推测(guess about implementing party)
 
@@ -14,7 +18,7 @@
 
 <br/>
 
-1. the government(Chinese Communist)
+1. the government(Chinese Communist, American government and other governments who has the power to do this)
 2. HUAWEI(because HUAWEI constructs the base station)
 3. The Companies who sell the chlorpromazine(because they can force the patients to eat their medicine(What if what they sell is actually a poison?) and make money by this)
 
@@ -22,6 +26,11 @@
 
 1. 卖精神病药的公司
 2. 精神病医院(因为医院比较分散，所以不认为这些医院会串通起来搞这么个病，最多是打着治疗的名义捞钱)
+
+<br/>
+
+1. The companies who sell the drugs
+2. Mental hospital
 
 ## 另
 
